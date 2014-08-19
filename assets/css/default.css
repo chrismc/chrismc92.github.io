@@ -108,6 +108,14 @@ img {
 	z-index: 1;
 }
 
+.outlined-title {
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
 .site-icon-home {
 	width: 150px;
 	height: 150px;

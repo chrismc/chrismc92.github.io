@@ -3,8 +3,8 @@ markdown:	kramdown
 highlighter:	pygments
 
 # Setup
-title:		Christian's World of Whimsy
-tagline:	'Like it says on the tin'
+title:		"Christian's World of Whimsy"
+tagline:	"Like it says on the tin"
 description: > # this means to ignore newlines until "baseurl:"
   A blog for my musings, projects, tinkering and general pondering.
   Feel free to take a look around at some of the stuff I've made,

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullscreen
 title: About the site, the author, the life, the universe and everything more.
 ---
 

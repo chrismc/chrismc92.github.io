@@ -111,9 +111,9 @@ img {
 .outlined-title {
     text-shadow:
     -1px -1px 10px #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;  
+    1px -1px 10px #000,
+    -1px 1px 10px #000,
+    1px 1px 10px #000;  
 }
 
 .site-icon-home {

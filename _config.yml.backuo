@@ -1,0 +1,15 @@
+# Site settings
+title: Christian's World of Whimsy
+email: mcnamara.christian@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog for my musings, projects, tinkering and general pondering.
+  Feel free to take a look around at some of the stuff I've made,
+  I'm pretty proud of it.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://chrismc92.github.io" # the base hostname & protocol for your site
+github_username:  chrismc92
+timezone: America/Chicago
+
+# Build settings
+markdown: kramdown
+

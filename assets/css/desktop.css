@@ -59,6 +59,14 @@ header, footer {
 	display: none;
 }
 
+.outlined-title {
+    text-shadow:
+    -1px -1px 10px #000,
+    1px -1px 10px #000,
+    -1px 1px 10px #000,
+    1px 1px 10px #000;  
+}
+
 .pagination, #post-list {
 	width: 700px;
 	left: 50%;

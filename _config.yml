@@ -45,7 +45,10 @@ menu:
     url:	/
     
   - title:	About
-    url:	/about
+    url: /about
+    
+  - title:	Résumé
+    url: /files/resume.pdf
     
 copyright:
   author:	Christian McNamara

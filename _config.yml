@@ -39,7 +39,11 @@ social:
   - icon:	feed
     url:	http://chrismc92.github.io/feed.xml
     desc:	Subscribe to my feed
-    
+
+  - icon:	mail
+    url:	mailto:mcnamara.christian@gmail.com
+    desc:	Email me
+
 menu:
   - title:	Home
     url:	/

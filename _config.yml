@@ -10,6 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Feel free to take a look around at some of the stuff I've made,
   I'm pretty proud of it.
 url: "http://chrismc92.github.io" # the base hostname & protocol for your site
+
 commentsystem:	disqus
 disqus:		ChristiansWOW
 

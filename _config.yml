@@ -29,6 +29,10 @@ social:
   #   url:	https://twitter.com/iancamporez
   #   desc:	Follow me on twitter
 
+  - icon:	mail
+    url:	mailto:mcnamara.christian@gmail.com
+    desc:	Email me
+
   - icon:	github
     url:	https://github.com/chrismc92
     desc:	Fork me on github
@@ -40,13 +44,16 @@ social:
   - icon:	feed
     url:	http://chrismc92.github.io/feed.xml
     desc:	Subscribe to my feed
-    
+
 menu:
   - title:	Home
     url:	/
     
   - title:	About
-    url:	/about
+    url: /about
+    
+  - title:	Résumé
+    url: /files/resume.pdf
     
 copyright:
   author:	Christian McNamara

@@ -2,7 +2,7 @@
 layout: post
 title: "I've been thinking"
 quote: "I'm going to try to write more things down."
-image: /media/Ive-been-thinking/idea.jpg
+image: /media/2015-09-27-Ive-been-thinking/idea.jpg
 video: false
 comments: true
 dark: false
